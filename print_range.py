@@ -3,7 +3,7 @@ def print_range(n):
         print(i, end=" ")
 
 def main():
-    print_range(10)
+    print_range(100)
     return
 
 
